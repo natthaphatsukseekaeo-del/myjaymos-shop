@@ -1,0 +1,1 @@
+# myjaymos-shop
