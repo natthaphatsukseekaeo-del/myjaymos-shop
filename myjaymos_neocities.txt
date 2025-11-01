@@ -1,0 +1,16 @@
+เตรียมไฟล์ ZIP สำหรับเว็บ MyJayMos Shop
+- index.html (ไฟล์หลัก)
+- images/ (โฟลเดอร์รูป Messenger + รูปสินค้า)
+
+โครงสร้าง:
+myjaymos_shop_neocities.zip
+  ├─ index.html
+  └─ images/
+       ├─ Messenger_creation_3A9EEF3F-4146-49EA-9558-9A41838BE02A.jpg
+       └─ รูปสินค้าอื่น ๆ.png/jpg
+
+เมื่ออัปโหลด ZIP เข้า Neocities:
+1. สมัครบัญชี Neocities ฟรี
+2. เข้า Dashboard → Upload Files
+3. เลือกไฟล์ ZIP → ระบบจะขยายไฟล์อัตโนมัติ
+4. เว็บพร้อมใช้งาน ลิงก์เป็น https://<username>.neocities.org/
